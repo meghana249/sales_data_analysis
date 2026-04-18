@@ -1,12 +1,17 @@
 # Sales Data Analysis Dashboard
 
 ## Tools Used
-Excel
+- Microsoft Excel
 
-## Description
-Created a dashboard using Excel to analyze sales data by category, region, and time.
+## Dataset
+- Source: Sample Superstore Dataset (public dataset)
+- Includes order details such as category, region, and sales
+- Used to analyze sales performance and trends
 
-## Insights
-- Technology category has highest sales
-- West region performs best
-- Sales increase over time
+## Project Description
+Developed an interactive dashboard in Excel to analyze sales data across different categories, regions, and time periods using pivot tables and charts.
+
+## Key Insights
+- Technology category generated the highest sales
+- West region contributed the most revenue
+- Sales showed an overall increasing trend over time
